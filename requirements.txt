@@ -1,0 +1,6 @@
+# Placement Eligibility Checker - Dependencies
+# Core: Standard library only (csv, json, re, dataclasses, typing, datetime)
+# Optional: For LLM API integration (uncomment if needed)
+# openai>=1.0.0
+# anthropic>=0.7.0
+# requests>=2.31.0

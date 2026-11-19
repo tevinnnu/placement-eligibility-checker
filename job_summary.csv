@@ -1,0 +1,11 @@
+job_id,company,title,branches,min_cgpa,max_backlogs,batch,summary,job_status,review_reason
+JOB001,TechCorp Solutions,Software Engineer,AIDS|CSE|IT,7.5,0,2025,"Branches: AIDS, CSE, IT; CGPA >= 7.5; Max backlogs: 0; Ba...",matched,
+JOB002,DataSys Analytics,Data Analyst,CSE|IT|AIDS|ECE,7.0,1,2025,"Branches: CSE, IT, AIDS, ECE; CGPA >= 7.0; Max backlogs: ...",matched,
+JOB003,CloudNine Inc,Cloud Engineer,CSE|IT,8.0,0,2025,"Branches: CSE, IT; CGPA >= 8.0; Max backlogs: 0; Batch 2025",matched,
+JOB004,AutoMotive Systems,Embedded Engineer,ECE|EEE|MECH,6.5,2,2025,"Branches: ECE, EEE, MECH; CGPA >= 6.5; Max backlogs: 2; B...",matched,
+JOB005,FinTech Innovations,Backend Developer,CSE|IT|AIDS,7.5,0,2026,"Branches: CSE, IT, AIDS; CGPA >= 7.5; Max backlogs: 0; Ba...",matched,
+JOB006,GreenEnergy Corp,Power Systems Engineer,ECE|EEE,7.0,1,2025,"Branches: ECE, EEE; CGPA >= 7.0; Max backlogs: 1; Batch 2025",matched,
+JOB007,StartupXYZ,Full Stack Developer,ALL,6.0,0,2025,All branches; CGPA >= 6.0; Max backlogs: 0; Batch 2025,matched,
+JOB008,ResearchLab AI,ML Engineer,CSE|IT|AIDS,8.5,0,2025,"Branches: CSE, IT, AIDS; CGPA >= 8.5; Max backlogs: 0; Ba...",matched,
+JOB009,WebScale Technologies,DevOps Engineer,CSE|IT,7.0,1,2025,"Branches: CSE, IT; CGPA >= 7.0; Max backlogs: 1; Batch 2025",matched,
+JOB010,MobileFirst Apps,iOS Developer,ALL,,,2025,All branches; Batch 2025,needs_review,No explicit CGPA cut-off found in job post

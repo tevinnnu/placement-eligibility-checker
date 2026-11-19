@@ -1,0 +1,29 @@
+PLACEMENT ELIGIBILITY CHECKER - SUMMARY REPORT
+============================================================
+Generated: 2026-11-19 21:28:45
+
+Total Jobs Processed: 10
+  - Matched (ready for distribution): 9
+  - Needs Review: 1
+
+Total Students: 27
+  - Students with >=1 match: 21
+  - Students with zero matches: 6
+
+JOBS REQUIRING MANUAL REVIEW:
+----------------------------------------
+  JOB010 | MobileFirst Apps | iOS Developer
+    Reason: No explicit CGPA cut-off found in job post
+    Extracted: All branches; Batch 2025
+
+STUDENTS WITH ZERO MATCHES:
+----------------------------------------
+  25CS005 | Arjun Singh | CSE | CGPA: 7.5 | Backlogs: 2 | Batch: 2025
+  25CV001 | Rajesh Tiwari | CIVIL | CGPA: 6.8 | Backlogs: 1 | Batch: 2025
+  26CS002 | Manish Yadav | CSE | CGPA: 7.4 | Backlogs: 0 | Batch: 2026
+  26IT002 | Harsh Pandey | IT | CGPA: 6.9 | Backlogs: 1 | Batch: 2026
+  26EC001 | Pranav Kulkarni | ECE | CGPA: 7.7 | Backlogs: 0 | Batch: 2026
+  26EE001 | Swati Saxena | EEE | CGPA: 7.2 | Backlogs: 1 | Batch: 2026
+
+============================================================
+NOTE: All lists are DRAFTS pending placement officer review.
